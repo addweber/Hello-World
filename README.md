@@ -22,7 +22,6 @@ The tools below were used or referenced during this project:
 
 - **GitHub** – repository hosting and version control  
 - **Markdown** – formatting documentation  
-- *(Optional examples)* Python, R, Excel, SQL, HTML  
 
 ---
 
