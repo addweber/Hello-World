@@ -34,7 +34,23 @@ Below is an example of the files that may be included in this repository:
 - `filename1.csv` → Example dataset  
 - `examples.html` → Basic HTML file  
 
-### Folder Layout
+## How to Run Program
+
+To run this project, make sure all files are present in the folder. Open the program file with the software it was written for:
+
+- '.R files' → RStudio
+- '.py files' → Python
+- '.html files' → a web browser
+
+## Additional Information
+
+This project is mainly for learning purposes and documentation practice. I could expand it by:
+
+- Adding real data files
+- Improving program functionality
+- Including screenshots or examples in the README
+
+### Folder structure (for reference):
 
 ```text
 Hello_World/
@@ -42,3 +58,4 @@ Hello_World/
 │── pgmname1.R
 │── filename1.csv
 │── examples.html
+This layout ensures that the program can access all files it needs.
