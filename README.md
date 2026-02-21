@@ -38,9 +38,9 @@ Below is an example of the files that may be included in this repository:
 
 To run this project, make sure all files are present in the folder. Open the program file with the software it was written for:
 
-- '.R files' → RStudio
-- '.py files' → Python
-- '.html files' → a web browser
+- `.R files` → RStudio
+- `.py files` → Python 
+- `.html files` → a web browser
 
 ## Additional Information
 
@@ -52,10 +52,10 @@ This project is mainly for learning purposes and documentation practice. I could
 
 ### Folder structure (for reference):
 
+This layout ensures that the program can access all files it needs.
 ```text
 Hello_World/
 │── README.md
 │── pgmname1.R
 │── filename1.csv
 │── examples.html
-This layout ensures that the program can access all files it needs.
